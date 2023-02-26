@@ -149,6 +149,7 @@ This yields,
 
 <center>
 
+```
 shells bash
 utils cpio
 admin cron
@@ -164,7 +165,8 @@ utils gzip
 utils htop
 doc info
 metapackages init
-
+```
+  
 </center>
 
 
